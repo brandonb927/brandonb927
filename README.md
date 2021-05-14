@@ -1,4 +1,4 @@
-Hi there 👋 I'm Brandon, a QA Developer @ [redacted] from Vancouver Island, Canada. I also teach web development courses at Vancouver Island University. I used to work on [Battlesnake](https://play.battlesnake.com), and I like [photography](https://brandonb.ca/photos).
+Hi there 👋 I'm Brandon, a QA Developer and web development instructor at Vancouver Island University, from Vancouver Island, Canada. I used to work on [Battlesnake](https://play.battlesnake.com) and I like to write things that interest me on my [website](https://brandonb.ca).
 
 ```
                   __
